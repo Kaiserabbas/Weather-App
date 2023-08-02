@@ -29,8 +29,8 @@ Open the Weather App.
 - The Weather App is compatible with Android devices running Android 4.0 or higher.
 
 # Installation
-- The Weather App is available soon for free on the Google Play Store. In the meanwhile, you can use it on web browser as link below:
-- 
+- The Weather App is available soon for free on the Google Play Store. In the meanwhile, you can use it on a web browser as the link below:
+- [https://rawcdn.githack.com/Kaiserabbas/Weather-App/deddbaed782b65a60e8c250aec3ea4585927611d/index.html]
 
 # Contact
 - If you have any questions or feedback, please contact us at [kayser.abbas@gmail.com]
