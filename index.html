@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="index.css" />
+    <title>Weather App</title>
+  </head>
+  <body>
+    <h1>Weather App</h1>
+    <form id="weatherForm">
+      <label for="cityInput">City:</label>
+      <input type="text" id="cityInput" value="Arifwala" required />
+      <br />
+      <label for="metricCheckbox">Units:</label>
+      <input
+        type="radio"
+        name="unit"
+        id="metricCheckbox"
+        value="metric"
+        checked
+      />
+      Metric
+      <label for="imperialCheckbox"></label>
+      <input type="radio" name="unit" id="imperialCheckbox" value="imperial" />
+      Imperial
+      <br />
+      <button type="submit">Get Weather</button>
+    </form>
+    <div id="weatherResult"></div>
+
+    <script src="index.js"></script>
+  </body>
+</html>
