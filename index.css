@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;    
+}
+
+button {
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 500;
+    color: #fff;
+    background-color: #919090;
+}
+
+button:hover {
+    opacity: 0.8;    
+}
+
+button:active {
+    opacity: 1;
+    transform: scale(0.98);
+    background-color: burlywood;
+    color: #000;
+}
+
+#weatherResult h2 {
+    margin: 30px 0 0 0;
+    font-size: 25px;
+
+}    
+
+#weatherResult p {
+    font-size: 20px;
+}
