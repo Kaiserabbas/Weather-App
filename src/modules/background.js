@@ -14,4 +14,4 @@ function setBackgroundFromUnsplash(city) {
       console.error('Error fetching background image:', error);
     });
 }
-setBackgroundFromUnsplash();
+export default setBackgroundFromUnsplash;

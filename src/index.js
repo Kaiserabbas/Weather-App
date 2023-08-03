@@ -1,3 +1,8 @@
+import setBackgroundFromUnsplash from './modules/background.js';
+import './modules/index.css';
+
+setBackgroundFromUnsplash();
+
 const form = document.getElementById('weatherForm');
 const cityInput = document.getElementById('cityInput');
 const metricCheckbox = document.getElementById('metricCheckbox');

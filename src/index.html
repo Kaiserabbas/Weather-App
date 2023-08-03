@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Weather App</title>
+  </head>
+  <body>
+    <div id="main-div" class="main-div">
+      <h1>Weather Update</h1>
+      <form id="weatherForm">
+        <label for="cityInput"></label>
+        <input
+          type="text"
+          id="cityInput"
+          placeholder="Enter city name"
+          required
+        />
+        <br />
+        <label for="metricCheckbox">Units:</label>
+        <input
+          type="radio"
+          name="unit"
+          id="metricCheckbox"
+          value="metric"
+          checked
+        />
+        Metric
+        <label for="imperialCheckbox"></label>
+        <input
+          type="radio"
+          name="unit"
+          id="imperialCheckbox"
+          value="imperial"
+        />
+        Imperial
+        <br />
+        <button type="submit">Get Weather</button>
+      </form>
+      <div id="weatherResult"></div>
+    </div>
+  </body>
+</html>
