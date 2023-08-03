@@ -30,7 +30,7 @@ Open the Weather App.
 
 # Installation
 - The Weather App is available soon for free on the Google Play Store. In the meanwhile, you can use it on a web browser as the link below:
-- [https://rawcdn.githack.com/Kaiserabbas/Weather-App/deddbaed782b65a60e8c250aec3ea4585927611d/index.html]
+- [https://rawcdn.githack.com/Kaiserabbas/Weather-App/766dd0f56e495e850898cea27ec2bb18d1ae1895/dist/index.html]
 
 # Contact
 - If you have any questions or feedback, please contact us at [kayser.abbas@gmail.com]
