@@ -3,12 +3,12 @@ The Weather App is a simple and easy-to-use app that provides you with the lates
 
 # Features
 - Current weather conditions
-- Hourly forecast
-- Daily forecast
-- 10-day forecast
-- Weather alerts
+- Hourly Forecast (coming soon)
+- Daily Forecast (coming soon)
+- 10-day Forecast (coming soon)
+- Weather alerts (coming soon)
 - Search for locations
--Save favorite locations
+- Save favorite locations (coming soon)
 
 # Benefits
 --The Weather App is a convenient way to stay up-to-date on the latest weather conditions.
