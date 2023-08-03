@@ -20,8 +20,8 @@ body {
 
 .main-div {
   position: absolute;
-  top: 15%;
-  left: 15%;
+  top: 5%;
+  left: 5%;
   background-color: rgba(0, 0, 0, 0.8);
   padding: 50px;
   color: #fff;
