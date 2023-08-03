@@ -3,7 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
-  text-align: center;    
+  text-align: center;
 }
 
 body {
@@ -30,11 +30,11 @@ body {
   box-shadow: 0 0 45px rgba(12, 12, 12, 0.5);
 }
 
-#cityInput{
+#cityInput {
   font-size: 1rem;
   color: #919090;
   font-weight: 700;
-  padding: 5px; 
+  padding: 5px;
   width: 100%;
   border: none;
   border-radius: 3px;
@@ -56,23 +56,23 @@ button {
 }
 
 button:hover {
-  opacity: 0.8;    
+  opacity: 0.8;
 }
 
 button:active {
   opacity: 1;
   transform: scale(0.98);
   background-color: rgb(0, 0, 0);
-  color: #ffffff;
+  color: #fff;
 }
 
 #weatherResult h2 {
   margin: 30px 0 0 0;
   font-size: 25px;
-}    
+}
 
 #weatherResult p {
-    font-size: 20px;
+  font-size: 20px;
 }
 
 .icon {
